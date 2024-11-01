@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Talentee Feedreader\n"
+"POT-Creation-Date: 2016-06-01 15:04+0200\n"
+"PO-Revision-Date: 2016-06-01 15:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: Tussendoor internet & marketing\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/controllers/customPostController.php:24
+msgid "Vacancies"
+msgstr "Vacatures"
+
+#: app/controllers/customPostController.php:25
+#: app/controllers/customPostController.php:50
+msgid "Vacancy"
+msgstr "Vacature"
+
+#: app/controllers/customPostController.php:26
+msgid "Item Archives"
+msgstr "Vacatures archief"
+
+#: app/controllers/customPostController.php:27
+msgid "Parent Item:"
+msgstr "Bovenliggend item:"
+
+#: app/controllers/customPostController.php:28
+msgid "All Items"
+msgstr "Alle vacatures"
+
+#: app/controllers/customPostController.php:29
+msgid "Add New Item"
+msgstr "Voeg nieuwe vacature toe"
+
+#: app/controllers/customPostController.php:30
+#: app/controllers/customPostController.php:31
+msgid "New vacancy"
+msgstr "Nieuwe vacature"
+
+#: app/controllers/customPostController.php:32
+msgid "Edit vacacy"
+msgstr "Bewerk vacature"
+
+#: app/controllers/customPostController.php:33
+msgid "Update vacancy"
+msgstr "Update vacature"
+
+#: app/controllers/customPostController.php:34
+msgid "View vacancy"
+msgstr "Bekijk vacature"
+
+#: app/controllers/customPostController.php:35
+msgid "Search vacancies"
+msgstr "Zoek vacatures"
+
+#: app/controllers/customPostController.php:36
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: app/controllers/customPostController.php:37
+msgid "Not found in Trash"
+msgstr "Niet gevonden in de prullenbak"
+
+#: app/controllers/customPostController.php:38
+msgid "Featured Image"
+msgstr "Kenmerkende afbeelding"
+
+#: app/controllers/customPostController.php:39
+msgid "Set featured image"
+msgstr "Zet kenmerkende afbeelding"
+
+#: app/controllers/customPostController.php:40
+msgid "Remove featured image"
+msgstr "Verwijder afbeelding"
+
+#: app/controllers/customPostController.php:41
+msgid "Use as featured image"
+msgstr "Gebruik als kenmerkende afbeelding"
+
+#: app/controllers/customPostController.php:42
+msgid "Insert into item"
+msgstr "Voeg in"
+
+#: app/controllers/customPostController.php:43
+msgid "Uploaded to this item"
+msgstr "Upload naar dit onderdeel"
+
+#: app/controllers/customPostController.php:44
+msgid "Items list"
+msgstr "Onderdeellijst"
+
+#: app/controllers/customPostController.php:45
+msgid "Items list navigation"
+msgstr "Onderdeellijst navigatie"
+
+#: app/controllers/customPostController.php:46
+msgid "Filter items list"
+msgstr ""
+
+#: app/controllers/customPostController.php:51
+msgid "Vacature lezer voor Talentee"
+msgstr "Vacature lezer voor Talentee"
+
+#: app/views/admin.settings.php:25 app/views/admin.settings.php:149
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: app/views/admin.settings.php:30
+msgid "Instellingen"
+msgstr "Instellingen"
+
+#: app/views/admin.settings.php:35
+msgid "Geavanceerd"
+msgstr "Geavanceerd"
+
+#: app/views/admin.settings.php:50
+msgid "Instellingen opgeslagen!"
+msgstr "Instellingen opgeslagen!"
+
+#: app/views/admin.settings.php:57
+msgid "Basis instellingen"
+msgstr "Basis instellingen"
+
+#: app/views/admin.settings.php:62
+msgid "XML Feed URL"
+msgstr "XML Feed URL"
+
+#: app/views/admin.settings.php:74
+msgid "Office ID (optional)"
+msgstr "Office ID (optioneel)"
+
+#: app/views/admin.settings.php:87
+msgid "URL Keyword"
+msgstr "URL Keyword"
+
+#: app/views/admin.settings.php:99 app/views/admin.settings.php:210
+msgid "Opslaan"
+msgstr "Opslaan"
+
+#: app/views/admin.settings.php:103
+msgid "Handmatige update"
+msgstr "Handmatige update"
+
+#: app/views/admin.settings.php:160
+msgid "Settings"
+msgstr "Instellingen"
+
+#: app/views/admin.settings.php:174
+msgid "Verwijder posts wanneer de einddatum is bereikt"
+msgstr "Verwijder posts wanneer de einddatum is bereikt"
+
+#: app/views/admin.settings.php:188
+msgid "Gebruik wp_schedule_event voor automatische updates"
+msgstr "Gebruik wp_schedule_event voor automatische updates"
+
+#: app/views/admin.settings.php:201
+msgid "Keep logs"
+msgstr "Behoud logbestanden"
+
+#: app/views/admin.settings.php:225
+msgid "PHP Version"
+msgstr "PHP Versie"
+
+#: app/views/admin.settings.php:226
+msgid "Tenminste PHP 5.1.0 is noodzakelijk voor deze plugin."
+msgstr "Tenminste PHP 5.1.0 is noodzakelijk voor het functioneren van deze plugin."
+
+#: app/views/admin.settings.php:278
+msgid "Recent news on Tussendoor.nl"
+msgstr "Recent nieuws op Tussendoor.nl"
+
+#: app/views/admin.settings.php:286
+msgid "Like us on Facebook"
+msgstr "Vind ons leuk op Facebook"
+
+#: app/views/admin.settings.php:287
+msgid "Like us on Facebook and stay tuned on all our updates."
+msgstr "Vind ons leuk op Facebook en blijf op de hoogte van al onze updates."
+
+#: templates/archive.php:49
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: templates/archive.php:50
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: templates/archive.php:51
+msgid "Page"
+msgstr "Pagina"
+
+#: templates/single.php:34
+msgid "Next"
+msgstr "Volgende"
+
+#: templates/single.php:35
+msgid "Next post:"
+msgstr "Volgende post:"
+
+#: templates/single.php:37
+msgid "Previous"
+msgstr "Vorige"
+
+#: templates/single.php:38
+msgid "Previous post:"
+msgstr "Vorige post:"
